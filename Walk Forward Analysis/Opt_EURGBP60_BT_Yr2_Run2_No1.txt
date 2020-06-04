@@ -1,0 +1,2 @@
+I_MagicNumber;I_ATRPeriod;I_AtRisk;I_StoplossMethod;I_ReversionPercent;I_StoplossATRMultiplier;I_TypicalSpread;I_MaxLotSize;I_RiskRewardRatio;I_LimitStopOrderExpiryMins;I_HiddenStoplossOffset;I_TradingStartHour;I_TradingEndHour;I_LogResultsInFile;End_Account_Balance;End_Account_Equity;Total P&L;NoTrades;NoWinTrades;WinRatio;MaxDrawdown;TotalTradeProfit;P&L_DD_Ratio;P&L_NoTrades_Ratio
+20200505;4;20.0000;ATRMultiplier;-80;1.0000;0.000300;5.000000;3.000000;120;0.000000;8;19;1;10485.58698000;10485.58698000;0.00000000;71;25;0.35;261.9968;485.5870;1.8534;6.839253

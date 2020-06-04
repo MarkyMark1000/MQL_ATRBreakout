@@ -1,6 +1,8 @@
 These scripts can be used by the MetaTrader system to build executables for automatically initiating
 stop or limit orders when a certain signal is detected.
 
+Please note that this is not a production version of the file and so may be missing updates.
+
 The "C_" file needs to be placed within the include directory and the "EA_" file needs to be placed within the Experts
 directory and then compiled into an executable.
 
